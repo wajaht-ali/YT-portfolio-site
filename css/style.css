@@ -62,8 +62,6 @@
     background-color: crimson;
 }
 
-
-
 /* ==========================================================*/
 /* Navbar Styling */
 
@@ -176,12 +174,14 @@
     background-color: crimson;
     cursor: pointer;
 }
+
 #about hr {
     width: 80%;
     display: block;
     margin: 0px auto;
     margin-top: 1rem;
 }
+
 /*========================================================== */
 /* PORTFOLIO */
 .main .playlist-content {
@@ -297,10 +297,12 @@
     #about {
         width: 100vw;
     }
-    #about p{
+
+    #about p {
         padding: 5px 8px;
     }
 }
+
 /*========================================================== */
 /* FOOTER */
 
@@ -350,7 +352,6 @@
     cursor: pointer;
     text-decoration: none;
 }
-
 
 .base span {
     color: crimson;
@@ -423,7 +424,6 @@
     }
 }
 
-
 /* Contact-Page responsiveness test */
 
 @media(max-width: 520px) {
@@ -438,7 +438,6 @@
         width: 80%;
     }
 }
-
 
 /* Portfolio Responsiveness test */
 
